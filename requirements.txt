@@ -33,3 +33,4 @@ redis >= 4
 binaryornot ~= 0.4.4
 django-model-utils ~= 4.2.0
 format_cef ~= 0.0.4
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
